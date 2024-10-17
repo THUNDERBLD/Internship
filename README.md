@@ -1,7 +1,8 @@
 CREATED BY FARAZ HAIDER
 
 ## Video presentation for the Project
-https://youtu.be/e2hZErPNlHE
+
+[![Watch the video](https://img.youtube.com/vi/e2hZErPNlHE/maxresdefault.jpg)](https://youtu.be/e2hZErPNlHE)
 
 ## Next.js Project with Axios, Tailwind, and Node.js
 This project is built using Next.js and bootstrapped with create-next-app. It features a form interface and a dashboard that dynamically displays selected details from the submitted form.
